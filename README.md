@@ -22,6 +22,11 @@ Searched for a library to normalize [Partocrs][partocrs] responses, at least its
 - What is offset? An offset is a difference between the local time and the UTC time, such as +5 (hours) or -12:30. They may be expressed directly in minutes, or in hours, or in a combination of minutes and hours. Here we'll use hours.
 - What the heck is UTC? It is timezone 0
 
+# Good resources for getting IANA codes, lat/lng, IATA codes
+
+- [download.geonames](https://download.geonames.org/)
+- [IATA-IANA] https://raw.githubusercontent.com/hroptatyr/dateutils/tzmaps/iata.tzmap
+
 [partocrs]: (https://www.partocrs.com/)
 [class-validator]: (https://github.com/typestack/class-validator)
 [prisma]: (https://www.prisma.io/)
