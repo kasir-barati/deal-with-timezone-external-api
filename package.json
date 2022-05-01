@@ -6,8 +6,15 @@
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "globe",
+    "airports",
+    "iata-code",
+    "iana-code",
+    "iata",
+    "iana"
+  ],
+  "author": "Kasir Barati",
   "license": "GPL-3.0",
   "dependencies": {
     "luxon": "^2.3.2"
