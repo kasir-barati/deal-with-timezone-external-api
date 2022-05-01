@@ -1,3 +1,4 @@
+// @ts-check
 const { DateTime } = require("luxon");
 
 const dt = DateTime.fromISO("2022-05-30T06:25:00", {
